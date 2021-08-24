@@ -35,11 +35,12 @@ nav {
 
 body{
     background-image: url('./img/map-bg.jpg');
+    font-family:'lato', sans-serif; font-size: 18px;
 }
 /*FOnte do menu*/
 #main {
     width: 900px; margin: 10px auto;
-    font-family:'lato', sans-serif; font-size: 18px;
+    
     
     
 }
